@@ -1,0 +1,16 @@
+print(" Hi! My name is Mila Mijalkova, and I am currently studying Economics at IE University.")
+print("I chose Economics because it will help me pursue my aspirations in the future.")
+print()
+print("My Hobbies:")
+print("1. Going to the gym")
+print("2. Watching my favourite series on Netflix")
+print("3. Going to pilates.")
+print()
+print(" Why Am I Studying Economics?")
+print("I am studying Economics because I want to pursue a career in politics and business, and I believe knowledge on economics is a core component.")
+print("The IB Economics course introduced me to these ideas, and now, at IE University, I am diving deeper into these concepts.")
+print()
+print("  Note:")
+print("I love programming. This year is the first time i enjoy coding!")
+
+
